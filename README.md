@@ -14,7 +14,7 @@
 
 - [Walden (Itch.io)](https://moussa-ngongo.itch.io/walden)
 - [Portfolio Website](https://moussa-ngongo.itch.io/)
-<!--- [YouTube Channel](https://www.youtube.com/@hasan.tarhan)-->
+<!--- [YouTube Channel](https://www.youtube.com/@moussa)-->
 
 ---
 ### 👋 About Me
