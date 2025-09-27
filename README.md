@@ -12,7 +12,7 @@
 ---
 ### 📂 Featured Projects
 
-- [Walden (Itch.io)](https://moussa-ngongo.itch.io/walden)
+<!---- [Walden (Itch.io)](https://moussa-ngongo.itch.io/walden)-->
 - [Portfolio Website](https://moussa-ngongo.itch.io/)
 <!--- [YouTube Channel](https://www.youtube.com/@moussa)-->
 
