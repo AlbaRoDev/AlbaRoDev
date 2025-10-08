@@ -1,6 +1,12 @@
-# AlbaRo Dev
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&repeat=false&color=36BCF7FF&center=true&width=435&lines=Álvaro+R.+Acosta" alt="Álvaro R. Acosta" />
+</h1>
 
-<ins>**Game Developer**</ins>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&random=true&width=1920&height=100&lines=Experienced+Game+developer;5%2B+years+of+coding+experience;Always+learning+new+things)](https://git.io/typing-svg)
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Álvaro%20R.%20Acosta-blue)](https://www.linkedin.com/in/%C3%A1lvaro-r-acosta/)
 [![Email](https://img.shields.io/badge/Email-alvracosta@gmail.com-red)](mailto:alvracosta@gmail.com)
@@ -43,8 +49,6 @@
 | Concurso de Desarrollo de Videojuegos por la Transición Ecológica      | 2021          | Participant & Winner            |
 | UJI Game Jam                     | 2021, 2024          | Participant           |
 
-<!--- ### 😍 Leaf Hero
-[![Watch on YouTube](https://img.youtube.com/vi/4KEC1Ycw-Q0/0.jpg)](https://www.youtube.com/watch?v=4KEC1Ycw-Q0)
---- -->
+
 
 ---
