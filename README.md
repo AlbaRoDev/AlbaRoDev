@@ -50,9 +50,7 @@
   - Learning new tools and techniques - the game dev world moves fast!
   - Building cool indie games and expanding my portfolio
   - Connecting with other devs and being part of the community
-  
-  Always up for chatting about game dev, collaborating on projects, or just nerding out about games in general!
-  
+    
 </details>
 
 <details open> 
