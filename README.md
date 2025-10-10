@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&pause=1000&repeat=false&color=36BCF7FF&center=true&width=800&height=200&lines=Álvaro+R.+Acosta" alt="Álvaro R. Acosta" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&pause=1000&repeat=false&color=a85593&center=true&width=800&height=200&lines=Álvaro+R.+Acosta" alt="Álvaro R. Acosta" />
 </h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&random=false&width=1000&height=100&lines=Game+Developer;Game+Design+%26+Development+Graduate;Specialized+in+Unity+%26+Unreal+Engine;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&random=false&width=1000&height=100&color=a85593&lines=Game+Developer;Game+Design+%26+Development+Graduate;Specialized+in+Unity+%26+Unreal+Engine;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
