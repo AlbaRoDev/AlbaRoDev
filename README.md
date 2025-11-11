@@ -153,5 +153,5 @@
 ---
 
 <p align="center">
-  <i>💡 "Great games are built one line of code at a time"</i>
+  <i>💡 "Practical code. Playable games"</i>
 </p>
