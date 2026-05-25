@@ -62,11 +62,12 @@
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?style=for-the-badge&logo=cs2&logoColor=white" height="35"></a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white" height="35"></a>
     <a href="https://isocpp.org/"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white" height="35"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="35"></a>
     <a href="https://en.wikipedia.org/wiki/Assembly_language"><img alt="Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?style=for-the-badge&logo=asm-hex&logoColor=white" height="35"></a>
     <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="35"></a>
     <a href="https://en.wikipedia.org/wiki/SQL"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=white" height="35"></a>
     <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="35"></a>
-  </p>
+</p>
 
   <h3>🎮 Game Engines & Frameworks</h3>
   
