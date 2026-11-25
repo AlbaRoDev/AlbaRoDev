@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Website-alvraco.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1A73E8" height="35" alt="Website"/>
   </a>
   <a href="https://moussa-ngongo.itch.io/">
-    <img src="https://img.shields.io/badge/Itch.io-albaro%20Game%20Dev-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white&labelColor=FF2449" height="35" alt="Itch.io"/>
+    <img src="https://img.shields.io/badge/Itch.io-alvraco%20Game%20Dev-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white&labelColor=FF2449" height="35" alt="Itch.io"/>
   </a>
 </p>
 
